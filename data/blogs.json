@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Exploring the Future of AI Technology",
+        "date": "2024-06-01",
+        "body": "Artificial Intelligence (AI) is rapidly evolving and transforming various industries...",
+        "category": "news",
+        "tags": ["AI", "technology", "innovation"],
+        "like_count": 120,
+        "share_count": 45
+    },
+    {
+        "title": "Community Event: Summer Festival 2024",
+        "date": "2024-06-02",
+        "body": "Join us for the annual summer festival with fun activities, food stalls, and live music...",
+        "category": "events",
+        "tags": ["festival", "community", "summer"],
+        "like_count": 80,
+        "share_count": 30
+    },
+    {
+        "title": "The Impact of Remote Work on Productivity",
+        "date": "2024-06-03",
+        "body": "Remote work has become a common practice, but how does it affect productivity...",
+        "category": "news",
+        "tags": ["remote work", "productivity", "business"],
+        "like_count": 95,
+        "share_count": 40
+    },
+    {
+        "title": "Annual Charity Run: Supporting Local Causes",
+        "date": "2024-06-04",
+        "body": "Participate in our annual charity run and help support various local causes...",
+        "category": "events",
+        "tags": ["charity", "run", "community"],
+        "like_count": 150,
+        "share_count": 70
+    },
+    {
+        "title": "Tech Conference 2024: Innovations Unveiled",
+        "date": "2024-06-05",
+        "body": "The Tech Conference 2024 will showcase the latest innovations in technology...",
+        "category": "news",
+        "tags": ["tech conference", "innovation", "technology"],
+        "like_count": 110,
+        "share_count": 55
+    },
+    {
+        "title": "Local Art Exhibition: Celebrating Creativity",
+        "date": "2024-06-06",
+        "body": "Join us at the local art exhibition and explore the creative works of local artists...",
+        "category": "events",
+        "tags": ["art", "exhibition", "creativity"],
+        "like_count": 70,
+        "share_count": 25
+    },
+    {
+        "title": "Advancements in Renewable Energy Solutions",
+        "date": "2024-06-07",
+        "body": "Renewable energy solutions are becoming more advanced and accessible...",
+        "category": "news",
+        "tags": ["renewable energy", "sustainability", "technology"],
+        "like_count": 140,
+        "share_count": 60
+    },
+    {
+        "title": "Music Festival 2024: Lineup Announced",
+        "date": "2024-06-08",
+        "body": "The lineup for Music Festival 2024 has been announced, featuring top artists...",
+        "category": "events",
+        "tags": ["music festival", "artists", "summer"],
+        "like_count": 90,
+        "share_count": 35
+    },
+    {
+        "title": "The Role of Big Data in Modern Business",
+        "date": "2024-06-09",
+        "body": "Big Data is playing an increasingly important role in modern business strategies...",
+        "category": "news",
+        "tags": ["big data", "business", "analytics"],
+        "like_count": 85,
+        "share_count": 40
+    },
+    {
+        "title": "Health and Wellness Fair: Promoting Healthy Living",
+        "date": "2024-06-10",
+        "body": "Join us at the Health and Wellness Fair to learn about healthy living and wellness...",
+        "category": "events",
+        "tags": ["health", "wellness", "fair"],
+        "like_count": 75,
+        "share_count": 28
+    },
+    {
+        "title": "Breakthroughs in Medical Technology",
+        "date": "2024-06-11",
+        "body": "Recent breakthroughs in medical technology are paving the way for better healthcare...",
+        "category": "news",
+        "tags": ["medical technology", "healthcare", "innovation"],
+        "like_count": 130,
+        "share_count": 50
+    },
+    {
+        "title": "Winter Wonderland: Upcoming Holiday Events",
+        "date": "2024-06-12",
+        "body": "Get ready for the winter wonderland with a series of holiday events and activities...",
+        "category": "events",
+        "tags": ["holiday", "winter", "events"],
+        "like_count": 65,
+        "share_count": 22
+    },
+    {
+        "title": "Cybersecurity Trends to Watch in 2024",
+        "date": "2024-06-13",
+        "body": "Stay ahead of cybersecurity threats by understanding the latest trends...",
+        "category": "news",
+        "tags": ["cybersecurity", "trends", "technology"],
+        "like_count": 105,
+        "share_count": 48
+    },
+    {
+        "title": "Outdoor Adventure: Hiking Trails to Explore",
+        "date": "2024-06-14",
+        "body": "Explore the best hiking trails in the region for an outdoor adventure...",
+        "category": "events",
+        "tags": ["hiking", "outdoor", "adventure"],
+        "like_count": 85,
+        "share_count": 33
+    },
+    {
+        "title": "The Rise of Electric Vehicles",
+        "date": "2024-06-15",
+        "body": "Electric vehicles are becoming more popular and accessible, transforming transportation...",
+        "category": "news",
+        "tags": ["electric vehicles", "transportation", "technology"],
+        "like_count": 115,
+        "share_count": 52
+    },
+    {
+        "title": "Food Festival: Taste of the World",
+        "date": "2024-06-16",
+        "body": "Experience a culinary journey at the Food Festival with dishes from around the world...",
+        "category": "events",
+        "tags": ["food festival", "culinary", "world"],
+        "like_count": 95,
+        "share_count": 37
+    },
+    {
+        "title": "The Evolution of Smart Homes",
+        "date": "2024-06-17",
+        "body": "Smart homes are evolving with new technologies that enhance convenience and security...",
+        "category": "news",
+        "tags": ["smart homes", "technology", "innovation"],
+        "like_count": 100,
+        "share_count": 44
+    },
+    {
+        "title": "Local Farmers Market: Fresh Produce and More",
+        "date": "2024-06-18",
+        "body": "Visit the local farmers market for fresh produce and handmade goods...",
+        "category": "events",
+        "tags": ["farmers market", "fresh produce", "local"],
+        "like_count": 70,
+        "share_count": 29
+    },
+    {
+        "title": "Virtual Reality: The Future of Gaming",
+        "date": "2024-06-19",
+        "body": "Virtual Reality (VR) is revolutionizing the gaming industry with immersive experiences...",
+        "category": "news",
+        "tags": ["virtual reality", "gaming", "technology"],
+        "like_count": 125,
+        "share_count": 57
+    },
+    {
+        "title": "Charity Gala: An Evening of Giving Back",
+        "date": "2024-06-20",
+        "body": "Join us for the annual charity gala and support various charitable causes...",
+        "category": "events",
+        "tags": ["charity", "gala", "community"],
+        "like_count": 90,
+        "share_count": 38
+    }
+]
