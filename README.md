@@ -1,7 +1,7 @@
-# Exploratory Analysis of Big Data
- Exploratory Analysis of Big Data
+# Exploratory Analysis of Big Data and Cloud 
 
-## Exploratory Analysis of Big Data and Cloud
+## Master Program
+THERESA - digiTal tecHnologiEs foR thE Security of criticAl infrastructures
 
 **Course Syllabus**  
   
