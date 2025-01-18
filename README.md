@@ -88,3 +88,7 @@ Upon completion of this course, students will be able to:
  https://smartdatamodels.org/
 
  https://datamodels.databases.biz/
+
+# Tutorials
+* https://www.w3schools.com/xml/
+* https://www.w3schools.com/sql/
