@@ -87,4 +87,4 @@ Upon completion of this course, students will be able to:
 * https://www.mongodb.com/
 * https://redis.io/
 * https://neo4j.com/
-* datastax.com
+* https://datastax.com
