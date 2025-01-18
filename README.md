@@ -91,3 +91,6 @@ Upon completion of this course, students will be able to:
 # Tutorials
 * https://www.w3schools.com/xml/
 * https://www.w3schools.com/sql/
+
+# Tools
+* https://sqlitebrowser.org/
