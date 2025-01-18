@@ -77,4 +77,4 @@ Upon completion of this course, students will be able to:
 
 # Tools
 * https://sqlitebrowser.org/
-* (PowerBI desktop)[https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop]
+* [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
