@@ -85,4 +85,12 @@ Upon completion of this course, students will be able to:
 *   Week 8: Final Exam
 
  # Sample Data Models 
- https://smartdatamodels.org/
+* https://smartdatamodels.org/
+* https://datamodels.databases.biz/
+
+# Tutorials
+* https://www.w3schools.com/xml/
+* https://www.w3schools.com/sql/
+
+# Tools
+* https://sqlitebrowser.org/
