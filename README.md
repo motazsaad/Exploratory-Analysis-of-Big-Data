@@ -86,3 +86,5 @@ Upon completion of this course, students will be able to:
 
  # Sample Data Models 
  https://smartdatamodels.org/
+
+ https://datamodels.databases.biz/
