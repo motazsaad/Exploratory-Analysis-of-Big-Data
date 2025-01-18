@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<students>
+    <student>
+        <name>John Doe</name>
+        <email>john@gmail.com></email>
+        <major>Computer Science</major>
+        <gpa>3.5</gpa>
+    </student>
+    <student>
+        <name>Davide Mario</name>
+        <email>davide@gmail.com></email>
+        <major>Computer Science</major> 
+        <gpa>3.8</gpa>
+</students>

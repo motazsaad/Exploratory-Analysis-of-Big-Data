@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<books>
+    <book>
+        <title>PHP and MySQL Web Development</title>
+        <author>Luke Welling</author>
+        <author>Laura Thomson</author>
+        <publisher>Sams</publisher>
+        <isbn>0672329166</isbn>
+    </book>
+    <book>
+        <title>Web Design with HTML, CSS, JavaScript and jQuery</title>
+        <author>Jon Duckett</author>
+        <publisher>Wiley</publisher>
+        <isbn>1119038634</isbn>
+    </book>
+    <book>
+        <title>Learning PHP, MySQL and JavaScript</title>
+        <author>Robin Nixon</author>
+        <publisher>O'Reilly</publisher>
+        <isbn>1491918667</isbn>
+    </book>
+    <book>
+        <title>PHP Objects, Patterns, and Practice</title>
+        <author>Matt Zandstra</author>
+        <publisher>Apress</publisher>
+        <isbn>143022925X</isbn>
+    </book>
+    <book>
+        <title>Modern PHP: New Features and Good Practices</title>
+        <author>Josh Lockhart</author>
+        <publisher>O'Reilly</publisher>
+        <isbn>1491905018</isbn>
+    </book>
+    <book>
+        <title>PHP Cookbook</title>
+        <author>David Sklar</author>
+        <author>Adam Trachtenberg</author>
+        <publisher>O'Reilly</publisher>
+        <isbn>0596101015</isbn>
+    </book>
+    <book>
+        <title>PHP and MySQL for Dynamic Web Sites</title>
+        <author>Larry Ullman</author>
+        <publisher>Peachpit Press</publisher>
+        <isbn>0321784073</isbn>
+    </book>
+    <book>
+        <title>PHP and MySQL for Dynamic Web Sites</title>
+        <author>Larry Ullman</author>
+        <publisher>Peachpit Press</publisher>
+        <isbn>0321833899</isbn>
+    </book>
+    <book>
+        <title>PHP and MySQL for Dynamic Web Sites</title>
+        <author>Larry Ullman</author>
+        <publisher>Peachpit Press</publisher>
+        <isbn>0321833899</isbn>
+    </book>
+</books>
