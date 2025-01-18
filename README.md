@@ -79,11 +79,11 @@ Upon completion of this course, students will be able to:
 # Tools
 * https://code.visualstudio.com/
 * https://sqlitebrowser.org/
-* (PowerBI desktop)[https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop]
+* [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 * https://www.mongodb.com/products/tools/compass
 
 # Cloud services 
-* (Azure Free Services)[https://azure.microsoft.com/en-in/pricing/free-services/]
+* [Azure Free Services](https://azure.microsoft.com/en-in/pricing/free-services/)
 * https://www.mongodb.com/
 * https://redis.io/
 * https://neo4j.com/
