@@ -1,0 +1,166 @@
+
+<!-- saved from url=(0072)https://modelarchive.databases.biz/data_models/online_banking/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+<title>Online Banking Data Model</title>
+	<link rel="canonical" href="https://datamodels.databases.biz/data_models/online_banking/index.html">
+<link rel="stylesheet" href="./Online Banking Data Model_files/style.css">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table name="CHANGE MY WIDTH" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+<!-- CHANGING THE WIDTH ABOVE WILL CHANGE ALL PAGE WIDTH -->
+<table name="HEADER" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody><tr> 
+<td height="68" valign="middle"><img src="./Online Banking Data Model_files/dba_400_home.jpg" width="400" height="58" alt="Database Answers"></td>
+<td align="right" height="95" rowspan="2" width="100%" valign="middle">
+<img align="right" alt="Online Banking" heiight="88" wiidth="206" hspace="0" vspace="4" src="./Online Banking Data Model_files/online_banking_logo.jpg"> 
+</td>
+</tr>
+<tr>
+<td width="100%" align="right">
+<p class="time"><nobr><script language="JavaScript">theDate();</script>
+<img alt="Printer" src="./Online Banking Data Model_files/printer_icon.gif">
+<a href="https://modelarchive.databases.biz/data_models/online_banking/online_banking_print_version.html"><font color="blue" face="Verdana" size="1">Printer-friendly version</font></a>
+</nobr><nobr></nobr></p><nobr>
+</nobr></td>
+</tr>
+</tbody></table>
+<!--- START OF DEC 5th. Menu Bar --->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="32" background="./Online Banking Data Model_files/nav_bg.jpg" align="left" valign="middle">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+	<td width="1%"><img src="./Online Banking Data Model_files/spacer.gif" width="15" height="15"></td>
+	<td width="6%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/index_htm.html"><font color="#FFFFFF" face="Verdana" size="2">Home</font></a></td>
+	<td width="11%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/"><font color="#FFFFFF" face="Verdana" size="2">
+	Ask a Question</font></a></td>
+	<td width="10%">
+	<a style="text-decoration:none" href="https://modelarchive.databases.biz/"><font color="#FFFFFF" face="Verdana" size="2">Best Practice</font></a></td>
+    	<td width="9%">
+<!--- <A STYLE="text-decoration:none" HREF="../pi_communities/boards.asp"><font color="#FFFFFF" FACE=Verdana SIZE=2>Communities</font></A> --->
+	<a style="text-decoration:none" href="https://modelarchive.databases.biz/careers.html"><font color="#FFFFFF" face="Verdana" size="2">Careers</font></a>
+	</td>
+	<td width="9%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/contact_us.html"><font color="#FFFFFF" face="Verdana" size="2">Contact Us</font></a>
+	</td>
+         <td width="10%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/data_models/index.html"><font color="yellow" face="Verdana" size="2">Data Models</font></a></td>
+          <td width="7%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/search.html"><font color="#FFFFFF" face="Verdana" size="2">Search</font></a></td>
+          <td width="20%" wiiiidth="10%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/site_map.html"><font color="#FFFFFF" face="Verdana" size="2">Site Map</font></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!--- END OF DEC 5th. Menu  Bar --->
+<!---
+<table NAME="ORANGE BAND" width="100%" border=0 cellspacing="0" cellpadding="0">
+<tr><td height="2"><img src="../images/v3/spacer.gif" width="663" height="2"></td></tr>
+<tr><td height="3" bgcolor="#FF9900"><img src="../images/v3/spacer.gif" width="663" height="3"></td></tr>
+<tr><td height="2"><img src="../images/v3/spacer.gif" width="663" height="2"></td></tr>
+</table>
+<table NAME="TOP NAVBAR" width=100% border=0 cellpadding=0 cellspacing=0 background="../../images/v3/px-blue.gif" bgcolor="#3366CC">
+<tr>
+	<td><img src="../../images/v3/spacer.gif" width=5 height=24></td>
+	<td><a href="../../index.htm"><img name="menu_home" src="../../images/v3/menu-home-blue.gif" width=85 height=24 border=0 alt="Home"></a></td>
+ 	<td><img src="../../images/v3/curve-top-blue.gif" width=28 height=24></td>
+	<td><a href="../../ask_a_question.htm"><img name="menu_question" src="../../images/v3/menu-question.gif" width=109 height=24 border=0 alt="Ask a Question"></a></td>
+	<td><a href="../../careers.htm"> <img name="menu_careers" src="../../images/v3/menu-careers.gif" width=59 height=24 border=0 alt="Careers"></a></td>
+	<td><a href="../../contact_us.htm"><img name="menu_contact" src="../../images/v3/menu-contact.gif" width=76 border=0 height=24 alt="Contact us"></a></td>
+	<td><a href="../../data_models/index.htm"><img name="menu_models" src="../../images/v3/menu-models-active.gif" width=83 height=24 border=0 alt="Data Models"></a></td>
+	<td><a href="../../first_timers.htm"><img name="menu_timers" src="../../images/v3/menu-timers.gif" width=82 height=24 border=0 alt="First Timers"></a></td>
+	<td><a href="../../search.htm"><img name="menu_search" src="../../images/v3/menu-search.gif" width=53 height=24 border=0 alt="Search"></a></td>
+	<td width="100%"><a href="../../site_map.htm"><img name="menu_map" src="../../images/v3/menu-map.gif" width=62 height=24 border=0 alt="Site Map"></a></td>
+</tr>
+</table>
+<table NAME="GRAY NAVBAR" width="100%" border=0 cellspacing="0" cellpadding="0">
+<tr><td height="2"><img src="../images/v3/spacer.gif" width="663" height="2"></td></tr>
+<tr><td height="3" bgcolor="#999999"><img src="../../images/v3/spacer.gif" width="663" height="3"></td></tr>
+<tr><td height="2"><img src="../../images/v3/spacer.gif" width="663" height="2"></td></tr>
+</table>
+--->
+<table name="MAIN CONTENT" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td width="100%" bgcolor="#B0D8FF" valign="top"> 
+<img alt="Online Banking" src="./Online Banking Data Model_files/lft_online_banking.bmp"> 
+<!--- <img alt="Job Skills" src="images/rt_job_skills.bmp"> --->
+<table width="90%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td width="21"><img src="./Online Banking Data Model_files/spacer.gif" width="31" height="1"></td>
+<td width="100%">
+<font color="blue" face="Verdana" size="2">
+<a href="mailto:dba_requests@barryw.org?subject=Request%20for%20a%20Database%20for%20Online%20Banking">Email me</a> if you would like an Access Database.
+<br><a href="https://modelarchive.databases.biz/data_models/online_banking/facts.html">The User Requirements</a> have been established and define the conditions that the Model must comply with to ensure that the Database will support the business.
+<br>A version of the <a href="https://modelarchive.databases.biz/data_models/online_banking/online_banking_showing_attributes.html">Data Model showing Attributes</a> has also been created.
+<br>Here's some interesting information about standards for <a href="http://www.ofx.net/" target="_NEW">Open Financial Exchange (OFX)</a>.
+<br><br><img align="left" alt="Online Banking Data Model" border="0" src="./Online Banking Data Model_files/online_banking_model.gif"> 
+<p class="cell"><font color="blue" face="Verdana" size="2">
+<br>
+<b>&nbsp;&nbsp;&nbsp;Barry Williams</b> 
+<br>&nbsp;&nbsp;&nbsp;Updated January 27th. 2010
+<br>&nbsp;&nbsp;&nbsp;Principal Consultant
+<br>&nbsp;&nbsp;&nbsp;Database Answers.org</font></p><font color="blue" face="Verdana" size="2">
+<p>&nbsp;</p>
+</font></font></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!--- START OF DEC 5th. Menu Bar --->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="32" background="./Online Banking Data Model_files/nav_bg.jpg" align="left" valign="middle">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+	<td width="1%"><img src="./Online Banking Data Model_files/spacer.gif" width="15" height="15"></td>
+	<td width="6%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/index_htm.html"><font color="#FFFFFF" face="Verdana" size="2">Home</font></a></td>
+	<td width="11%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/"><font color="#FFFFFF" face="Verdana" size="2">
+	Ask a Question</font></a></td>
+	<td width="10%">
+	<a style="text-decoration:none" href="https://modelarchive.databases.biz/"><font color="#FFFFFF" face="Verdana" size="2">Best Practice</font></a></td>
+    	<td width="9%">
+<!--- <A STYLE="text-decoration:none" HREF="../pi_communities/boards.asp"><font color="#FFFFFF" FACE=Verdana SIZE=2>Communities</font></A> --->
+	<a style="text-decoration:none" href="https://modelarchive.databases.biz/careers.html"><font color="#FFFFFF" face="Verdana" size="2">Careers</font></a>
+	</td>
+	<td width="9%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/contact_us.html"><font color="#FFFFFF" face="Verdana" size="2">Contact Us</font></a>
+	</td>
+         <td width="10%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/data_models/index.html"><font color="yellow" face="Verdana" size="2">Data Models</font></a></td>
+          <td width="7%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/search.html"><font color="#FFFFFF" face="Verdana" size="2">Search</font></a></td>
+          <td width="20%" wiiiidth="10%"><a style="text-decoration:none" href="https://modelarchive.databases.biz/site_map.html"><font color="#FFFFFF" face="Verdana" size="2">Site Map</font></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!--- END OF DEC 5th. Menu  Bar --->
+<!---
+<table name="GRAY BAND" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td height="2"><img src="../images/v3/spacer.gif" width="663" height="2"></td></tr>
+<tr><td height="3" bgcolor="#999999"><img src="../images/v3/spacer.gif" width="663" height="3"></td></tr>
+<tr><td height="2"><img src="../images/v3/spacer.gif" width="663" height="2"></td></tr>
+</table>
+<table NAME="BOTTOM NAVBAR" width=100% border=0 cellpadding=0 cellspacing=0 background="../../images/v3/px-blue.gif" bgcolor="#3366CC">
+<tr>
+	<td><img src="../../images/v3/spacer.gif" width=5 height=24></td>
+	<td><a href="../../index.htm"><img name="menu_home" src="../../images/v3/menu-home-blue.gif" width=85 height=24 border=0 alt="Home"></a></td>
+ 	<td><img src="../../images/v3/curve-bottom-blue-dark.gif" width=28 height=24></td>
+	<td><a href="../../ask_a_question.htm"><img name="menu_question" src="../../images/v3/menu-question.gif" width=109 height=24 border=0 alt="Ask a Question"></a></td>
+	<td><a href="../../careers.htm"> <img name="menu_careers" src="../../images/v3/menu-careers.gif" width=59 height=24 border=0 alt="Careers"></a></td>
+	<td><a href="../../contact_us.htm"><img name="menu_contact" src="../../images/v3/menu-contact.gif" width=76 border=0 height=24 alt="Contact us"></a></td>
+	<td><a href="../../data_models/index.htm"><img name="menu_models" src="../../images/v3/menu-models-active.gif" width=83 height=24 border=0 alt="Data Models"></a></td>
+	<td><a href="../../first_timers.htm"><img name="menu_timers" src="../../images/v3/menu-timers.gif" width=82 height=24 border=0 alt="First Timers"></a></td>
+	<td><a href="../../search.htm"><img name="menu_search" src="../../images/v3/menu-search.gif" width=53 height=24 border=0 alt="Search"></a></td>
+	<td width="100%"><a href="../../site_map.htm"><img name="menu_map" src="../../images/v3/menu-map.gif" width=62 height=24 border=0 alt="Site Map"></a></td>
+</tr>
+</table>
+<table name="ORANGE BAND" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td height="2"><img src="../../images/v3/spacer.gif" width="663" height="2"></td></tr>
+<tr><td height="3" bgcolor="#FF9900"><img src="../../images/v3/spacer.gif" width="663" height="3"></td></tr>
+</table>
+--->
+<!-- HERE BASE TABLE CLOSES, INSIDE WHICH ALL PAGE IS PLACED, AND WHICH WIDTH IS 90 PERCENTS --> 
+</td>
+</tr>
+</tbody></table>
+
+</body></html>
