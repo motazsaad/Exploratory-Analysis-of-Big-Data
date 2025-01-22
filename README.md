@@ -83,9 +83,11 @@ Upon completion of this course, students will be able to:
 * [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 * https://www.mongodb.com/products/tools/compass
 * https://www.mongodb.com/products/self-managed/community-edition
+* https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
 
 # Cloud services 
 * [Azure Free Services](https://azure.microsoft.com/en-in/pricing/free-services/)
+* https://portal.azure.com/
 * https://www.mongodb.com/
 * https://redis.io/
 * https://neo4j.com/
