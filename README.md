@@ -82,6 +82,7 @@ Upon completion of this course, students will be able to:
 * https://sqlitebrowser.org/
 * [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 * https://www.mongodb.com/products/tools/compass
+* https://www.mongodb.com/products/self-managed/community-edition
 
 # Cloud services 
 * [Azure Free Services](https://azure.microsoft.com/en-in/pricing/free-services/)
