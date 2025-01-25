@@ -7,41 +7,23 @@ THERESA - digiTal tecHnologiEs foR thE Security of criticAl infrastructures
   
 
 **Course Title:** Exploratory Analysis of Big Data and Cloud  
-  
 
 **Course Credits:** 40 hours  
-  
 
 **Topics:**  
-  
-
-*   Introduction to Data Models  
-    
+*   Introduction to Data Models     
     *   Hierarchical Data Model  
-        
-    *   Relational Data Model  
-        
-    *   NoSQL Data Model  
-        
-    *   Graph Data Model  
-        
-*   Data Cloud Environments  
-    
-*   Data Engineering  
-    
-*   Preparing Data  
-    
-*   Exploring Data  
-    
-*   Analyze Data  
-    
+    *   Relational Data Model          
+    *   NoSQL Data Model         
+    *   Graph Data Model          
+*   Data Cloud Environments      
+*   Data Engineering      
+*   Preparing Data      
+*   Exploring Data      
+*   Analyze Data      
 *   Big Data  
-    
-
-  
+     
 **Course Objectives:**  
-  
-  
   
 Upon completion of this course, students will be able to:  
 *   Understand the different types of data models and their applications  
@@ -50,12 +32,9 @@ Upon completion of this course, students will be able to:
 *   Analyze big data using a variety of techniques   
 *   Communicate the results of their analysis  
     
-
-  
+ 
 **Grading:**  
 *   Final Exam (pass/fail)  
-    
-
   
 **Course Schedule:**  
 *   Week 1: Introduction to Data Models  
@@ -80,13 +59,16 @@ Upon completion of this course, students will be able to:
 # Tools
 * https://code.visualstudio.com/
 * https://sqlitebrowser.org/
+* https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
+* https://www.mongodb.com/products/self-managed/community-edition
+* https://redis.io/try-free
 * [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 * https://www.mongodb.com/products/tools/compass
-* https://www.mongodb.com/products/self-managed/community-edition
-* https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
+
+
 
 # Cloud services 
-* [Azure Free Services](https://azure.microsoft.com/en-in/pricing/free-services/)
+* [Azure Free Services](https://azure.microsoft.com/en-us/free/students)
 * https://portal.azure.com/
 * https://www.mongodb.com/
 * https://redis.io/
