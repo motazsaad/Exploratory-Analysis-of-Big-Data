@@ -61,9 +61,10 @@ Upon completion of this course, students will be able to:
 * https://sqlitebrowser.org/
 * https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
 * https://www.mongodb.com/products/self-managed/community-edition
-* https://redis.io/try-free
-* [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 * https://www.mongodb.com/products/tools/compass
+* https://redis.io/try-free
+* https://neo4j.com/
+* [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 
 
 
