@@ -64,6 +64,7 @@ Upon completion of this course, students will be able to:
 * https://www.mongodb.com/products/tools/compass
 * https://redis.io/try-free
 * https://neo4j.com/
+* GIS data example https://github.com/qgis/QGIS
 * [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 
 
@@ -75,3 +76,4 @@ Upon completion of this course, students will be able to:
 * https://redis.io/
 * https://neo4j.com/
 * https://datastax.com
+* Postgres db free tier https://neon.tech/docs/introduction/plans
