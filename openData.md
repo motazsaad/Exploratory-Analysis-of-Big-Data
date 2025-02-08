@@ -11,3 +11,5 @@
 9.  [Zenodo](https://zenodo.org/) is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It is designed to help researchers share and preserve a wide range of research outputs, including research papers, datasets, research software, and reports.
 10.  The ⁠[European Union Open Data Portal](https://data.europa.eu/data/) is the single point of access to a wide range of data from the institutions and other bodies of the European Union.
 11.  ⁠[Hugging Face datasets](https://huggingface.co/datasets): is a powerful library that simplifies accessing and sharing datasets for various tasks, including Audio, Computer Vision, and Natural Language Processing (NLP).
+12. ⁠[Azure Sample Data](https://learn.microsoft.com/en-us/azure/open-datasets/dataset-catalog)
+13. ⁠[Databricks Sample Data](https://docs.databricks.com/en/discover/databricks-datasets.html)
