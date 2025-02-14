@@ -66,6 +66,7 @@ Upon completion of this course, students will be able to:
 * https://neo4j.com/
 * GIS data example https://github.com/qgis/QGIS
 * [PowerBI desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
+* https://github.com/microsoft/data-formulator
 
 
 
