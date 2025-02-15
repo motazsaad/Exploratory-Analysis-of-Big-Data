@@ -78,3 +78,12 @@ Upon completion of this course, students will be able to:
 * https://neo4j.com/
 * https://datastax.com
 * Postgres db free tier https://neon.tech/docs/introduction/plans
+
+# Challenges 
+* https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/
+
+# Articles 
+* https://www.bennettinstitute.cam.ac.uk/blog/digital-public-infrastructure-promises-vs-realities/
+
+# Research papers 
+* [CI & GenAI](https://arxiv.org/pdf/2405.04874)
