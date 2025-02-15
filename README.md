@@ -87,3 +87,4 @@ Upon completion of this course, students will be able to:
 
 # Research papers 
 * [CI & GenAI](https://arxiv.org/pdf/2405.04874)
+* [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
