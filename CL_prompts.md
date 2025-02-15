@@ -65,7 +65,7 @@ Lessons Learned: Summarize the key takeaways from the event regarding resilience
 The scenario should be realistic, detailed, and consider real-world dependencies between critical infrastructure sectors.
 ```
 
-## Example prompt 
+## Example 
 
 # **Scenario: Cyberattack on a Power Grid and Its Impact on Critical Infrastructure**
 
@@ -101,4 +101,3 @@ Emergency response teams took immediate action:
 - **Investment in resilient infrastructure** with backup energy sources.  
 - **Regular cybersecurity training** for critical infrastructure personnel.  
 
-This event underscores the importance of **cyber resilience** in safeguarding national infrastructure against evolving threats.
