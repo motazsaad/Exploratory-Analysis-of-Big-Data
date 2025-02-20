@@ -46,6 +46,61 @@ Design a secure, scalable, and resilient **Digital Critical Infrastructure (CI)*
 
 ---
 
+## example design prompt 
+
+# **Design a Cloud-Based Smart Grid Infrastructure**
+
+## **Objective**  
+Develop a **secure, scalable, and AI-powered Smart Grid infrastructure** to enhance the reliability, efficiency, and cybersecurity of electricity distribution. The system should incorporate **cloud computing, edge computing, and AI-driven analytics** while ensuring compliance with **energy regulations and cybersecurity standards**.  
+
+---
+
+## **Key Requirements**  
+
+### **1. Infrastructure Scope**  
+- The infrastructure should support **electricity generation, transmission, and distribution** for a **national power grid**.  
+- It must integrate **renewable energy sources (solar, wind, hydro) with traditional energy grids**.  
+- The system should provide **real-time monitoring of energy consumption, fault detection, and predictive maintenance**.  
+
+### **2. Architecture Design**  
+- **Cloud-based architecture** with **hybrid edge computing** for real-time data processing.  
+- **IoT-enabled smart meters** to collect **real-time energy usage** from consumers.  
+- **AI-driven energy management system (EMS)** to optimize **load balancing and demand forecasting**.  
+- **Redundancy and failover mechanisms** to ensure high availability and resilience.  
+
+### **3. Security & Resilience**  
+- Implement a **Zero-Trust Security Model** with **multi-factor authentication (MFA)**.  
+- Use **end-to-end encryption** for data transmission between **smart meters, edge nodes, and cloud servers**.  
+- Deploy **AI-driven anomaly detection** to identify **cyber threats, energy fraud, and infrastructure failures**.  
+- Establish an **incident response plan** for **cyberattacks and grid failures**.  
+
+### **4. Data & AI Integration**  
+- Implement **real-time AI analytics** to predict **power outages and optimize energy distribution**.  
+- Use **machine learning algorithms** to forecast **energy demand and automate grid balancing**.  
+- Ensure **secure data storage and compliance** with **ISO 27001, GDPR, and national energy regulations**.  
+
+### **5. Scalability & Performance**  
+- Support **millions of IoT-connected smart meters** with **real-time data ingestion pipelines**.  
+- Deploy **containerized microservices (Kubernetes, Docker)** for **scalability and fault isolation**.  
+- Use **edge computing for latency-sensitive operations** like **real-time outage detection and local grid optimization**.  
+
+### **6. Compliance & Regulations**  
+- Ensure compliance with **NIST Cybersecurity Framework, IEC 62443, and GDPR**.  
+- Establish **data governance policies** for **energy consumption analytics and privacy protection**.  
+- Implement **audit logs and forensic analysis tools** for **incident tracking and regulatory compliance**.  
+
+---
+
+## **Deliverables**  
+- **Cloud-based Smart Grid Architecture Diagram**  
+- **Security Model & Cyber Threat Analysis**  
+- **AI-Powered Energy Demand Forecasting System**  
+- **Compliance and Risk Mitigation Report**  
+
+
+---
+
+
 
 # Generate a scenario prompt 
 
