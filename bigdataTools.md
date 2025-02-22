@@ -1,7 +1,10 @@
 # Big data tools 
 
 ## Google Colab + PySpark
-Tutorial: "Getting Started with PySpark on Google Colab" provides a step-by-step guide to setting up and running PySpark in a Colab environment. ​https://infinitepy.com/p/getting-started-pyspark-google-colab 
+Tutorial: "Getting Started with PySpark on Google Colab" provides a step-by-step guide to setting up and running PySpark in a Colab environment. 
+
+* ​https://infinitepy.com/p/getting-started-pyspark-google-colab 
+* https://colab.research.google.com/github/ceeroonine/googlecolab_workspace/blob/main/Getting_Started_with_PySpark.ipynb/
 
 Video Walkthrough: "Install PySpark 3 on Google Colab the Easy Way" offers a visual guide to setting up PySpark on Colab. ​https://www.youtube.com/watch?v=ZCliLOEKQWc
 
@@ -25,7 +28,7 @@ https://whatagraph.com/blog/articles/bigquery-tutorial
 
 
 
--- 
+---
 
 ## Real-Time Data Streaming
 
