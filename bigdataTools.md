@@ -6,6 +6,8 @@ Tutorial: "Getting Started with PySpark on Google Colab" provides a step-by-step
 * ​https://infinitepy.com/p/getting-started-pyspark-google-colab 
 * https://colab.research.google.com/github/ceeroonine/googlecolab_workspace/blob/main/Getting_Started_with_PySpark.ipynb/
 
+* https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook
+
 Video Walkthrough: "Install PySpark 3 on Google Colab the Easy Way" offers a visual guide to setting up PySpark on Colab. ​https://www.youtube.com/watch?v=ZCliLOEKQWc
 
 --- 
@@ -38,3 +40,8 @@ Apache Kafka Tutorial: "Apache Kafka Quickstart" on the official Apache website 
 ## Machine Learning on Big Data
 
 PySpark MLlib Tutorial Notebook: "Mastering Big Data with PySpark on Google Colab" offers a hands-on guide to using PySpark's MLlib for machine learning tasks. ​https://medium.com/%40siladityaghosh/mastering-big-data-with-pyspark-on-google-colab-d3c924264ceb
+
+
+
+## Hadoop on Colab
+* https://colab.research.google.com/github/LMAPcoder/Hadoop-on-Colab/blob/main/Hadoop_on_Colab.ipynb
