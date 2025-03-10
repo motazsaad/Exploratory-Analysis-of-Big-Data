@@ -20,4 +20,7 @@
   
 
 
+--- 
 
+# Getting start
+* https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
