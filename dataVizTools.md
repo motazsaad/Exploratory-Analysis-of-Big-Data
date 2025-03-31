@@ -24,3 +24,5 @@
 
 # Getting start
 * https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
+* [Get Started with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
+* [Create Stunning Reports with Excel in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
