@@ -26,3 +26,23 @@
 * [Get Started with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
 * [Create Stunning Reports with Excel in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
 * [PBI Data Stories Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+* [Power BI Desktop Samples](https://github.com/microsoft/powerbi-desktop-samples)
+* [Power BI Dashboard Examples](https://blog.coupler.io/power-bi-dashboard-examples/)
+
+---
+
+
+# Sample Dashboards (Tableau)
+* https://www.tableau.com/dashboard/dashboard-examples
+* https://rigorousthemes.com/blog/15-best-tableau-dashboard-examples/
+* https://www.tableau.com/data-insights/dashboard-showcase
+
+
+-- 
+
+
+# Top Datasets for Visualization 
+
+* https://www.tableau.com/learn/articles/free-public-data-sets
+* https://opendatascience.com/12-must-use-datasets-for-data-visualization-in-2024/
+* https://www.geeksforgeeks.org/top-datasets-for-data-visualization/
