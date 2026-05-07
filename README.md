@@ -1,5 +1,7 @@
 # Exploratory Analysis of Big Data and Cloud 
 
+Laboratorio di Analisi esplorativa di big data e cloud computing
+
 ## Master Program
 THERESA - digiTal tecHnologiEs foR thE Security of criticAl infrastructures
 
